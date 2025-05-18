@@ -30,11 +30,6 @@ She/Her
 ### ⚡ Fun fact:
 I love exploring Airbnb listings in different countries just for fun—and I’m building a dashboard that ranks the best ones using data!
 
----
-
-Check out my featured portfolio:  
-[**Travel & Remote Work Data Portfolio**](https://github.com/CrystalB95/travel-data-portfolio)
-
 <!---
 CrystalB95/CrystalB95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
