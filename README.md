@@ -9,18 +9,18 @@ I’m an aspiring data professional excited to grow in the field of analytics an
 ---
 
 ### 🔍 I’m interested in...
-• Real-world problem solving, especially in the travel, tourism, and real estate space
-• Learning how to make data more actionable and user-friendly
-• Building dashboards and automating insights
+- Real-world problem solving, especially in the travel, tourism, and real estate space
+- Learning how to make data more actionable and user-friendly
+- Building dashboards and automating insights
 
 ### 🌱 I’m currently learning...
-• Data engineering workflows (ETL pipelines, Airflow, DBT)
-• Interactive tools like Streamlit and Tableau
-• Advanced SQL and cloud storage platforms
+- Data engineering workflows (ETL pipelines, Airflow, DBT)
+- Interactive tools like Streamlit and Tableau
+- Advanced SQL and cloud storage platforms
 
 ### 🤝 I’m looking to collaborate on...
-• Entry-level data projects related to travel, careers, events, or cities
-• Anything that supports remote work or family-centered initiatives
+- Entry-level data projects related to travel, careers, events, or cities
+- Anything that supports remote work or family-centered initiatives
 
 ### 📫 How to reach me...
 - https://www.linkedin.com/in/crystal-barrow-706a40350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
